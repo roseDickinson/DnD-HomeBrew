@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://rosedickinson.github.io',
-  baseUrl: '/DnD-HomeBrew',
+  baseUrl: '/DnD-HomeBrew/',
   favicon: 'img/favicon.ico',
   organizationName: 'Rose Dickinson', // Usually your GitHub org/user name.
   projectName: 'DnD-HomeBrew', // Usually your repo name.
