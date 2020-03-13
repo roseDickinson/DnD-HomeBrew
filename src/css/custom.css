@@ -7,14 +7,19 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #F2ECE4;
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary-light: #E7D29B;
+  --ifm-color-primary-lighter: #F2ECE4;
+  --ifm-color-primary-lightest: #F2ECE4;
   --ifm-code-font-size: 95%;
+  background-color: #E7D29B;
+}
+
+.row {
+  justify-content: space-around;
 }
 
 .docusaurus-highlight-code-line {
@@ -22,4 +27,82 @@
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+.footer.footer--dark {
+  background-color: #58180D;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.menu .menu__link.menu__link--active {
+  color: #000000;
+}
+
+.navbar {
+  background-color: #58180D;
+}
+
+.navbar .navbar-sidebar__brand {
+  background-color: #58180D;
+}
+
+.navbar .navbar-sidebar {
+  background-color: #F2ECE4;
+}
+
+.navbar .navbar__toggle {
+
+}
+
+.navbar .navbar__link {
+  color: #F2ECE4;
+}
+
+.navbar .navbar__title {
+  color: #F2ECE4;
+}
+
+.button.button--secondary {
+  --ifm-button-border-color: rgb(41, 38, 30);
+}
+
+.button.button--secondary:hover {
+  --ifm-button-border-color: #9c2B1B;
+}
+
+a {
+  color: #9c2B1B;
+}
+
+hr {
+  border-color: #9c2B1B;
+}
+
+h1 {
+  color: #000000;
+}
+
+h2 {
+  color: #000000;
+}
+
+h3 {
+  color: #000000;
+}
+
+h4 {
+  color: #000000;
+}
+
+h5 {
+  color: #000000;
+}
+
+h6 {
+  color: #000000;
+}
+
+p {
+  color: #000000;
 }
