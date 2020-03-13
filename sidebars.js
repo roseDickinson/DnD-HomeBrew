@@ -2,8 +2,8 @@ module.exports = {
   someSidebar: [
     {
       type: 'category',
-      label: 'Spells',
-      items: ['Spells'],
+      label: 'Pages',
+      items: ['Spells', 'HomeBrew'],
     },
   ]
 };

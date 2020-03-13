@@ -22,6 +22,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/HomeBrew',
+          activeBasePath: 'docs',
+          label: 'HomeBrew',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/roseDickinson',
           label: 'GitHub',
           position: 'right',
@@ -39,8 +45,8 @@ module.exports = {
               to: 'docs/Spells',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'HomeBrew Rules',
+              to: 'docs/HomeBrew',
             },
           ],
         },
@@ -67,8 +73,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
