@@ -75,6 +75,9 @@
   --ifm-button-border-color: #9c2B1B;
 }
 
+.docSidebarContainer_1cYp {
+  border-right-color: #000000 !important;
+}
 .docSidebarContainer_node_modules-\@docusaurus-theme-classic-src-theme-DocPage- {
   border-right-color: #000000 !important;
 }
