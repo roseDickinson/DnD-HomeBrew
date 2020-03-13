@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{112:function(o){o.exports=JSON.parse('{"allTagsPath":"/DnD-HomeBrew/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/DnD-HomeBrew/blog/tags/facebook"}')}}]);
