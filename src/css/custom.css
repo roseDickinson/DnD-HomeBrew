@@ -145,3 +145,11 @@ h6 {
 p {
   color: #000000;
 }
+
+table tr:nth-child(2n-1) {
+  background-color: #dcedc1;
+}
+
+thead > tr {
+  background-color: #f5f6f7 !important;
+}
