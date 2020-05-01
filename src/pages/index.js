@@ -23,8 +23,12 @@ const features = [
       <>
         Because every DM has some.
       </>
-    ),
+    )
   },
+  {
+    title: <>Disclaimer</>,
+    description: ( <> This website and all content within is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. </> )
+  }
 ];
 
 function Feature({imageUrl, title, description}) {

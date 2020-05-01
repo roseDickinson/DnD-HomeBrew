@@ -22,9 +22,9 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/HomeBrew',
+          to: 'docs/RangerAsAFighterSubClass',
           activeBasePath: 'docs',
-          label: 'HomeBrew',
+          label: 'Classes',
           position: 'left',
         },
         {
@@ -45,8 +45,8 @@ module.exports = {
               to: 'docs/Spells',
             },
             {
-              label: 'HomeBrew Rules',
-              to: 'docs/HomeBrew',
+              label: 'Classes',
+              to: 'docs/RangerAsAFighterSubClass',
             },
           ],
         },

@@ -1,11 +1,9 @@
 ---
-id: HomeBrew
-title: HomeBrew Rules
+id: RangerAsAFighterSubClass
+title: Ranger (but as a fighter subclass)
 ---
 
-## Ranger (but as a fighter subclass)
-
-### Ranger Spellcasting
+## Ranger Spellcasting
 
 | Fighter Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
 |:-------------:|:--------------:|:------------:|:---:|:---:|:---:|:---:|:---:|
@@ -28,7 +26,7 @@ title: HomeBrew Rules
 | 19th          | 3              | 11           | 4   | 3   | 3   | 3   | 1   |
 | 20th          | 3              | 11           | 4   | 3   | 3   | 3   | 1   |
 
-### FAVORED ENEMY
+## FAVORED ENEMY
 Beginning at 3rd levei, you have significant experience
 studying, tracking, hunting, and even talking to a certain
 type of enemy.
@@ -48,10 +46,10 @@ enemies, if they speak one at all.
 
 You choose one additional favored enemy, as well as
 an associated language, at 15th level. As you
-gain leveis, your choices should reflect the types of
+gain levels, your choices should reflect the types of
 monsters you have encountered on your adventures.
 
-### NATURAL EXPLORER
+## NATURAL EXPLORER
 You are particularly familiar with one type of natural
 environment and are adept at traveling and surviving in
 such regions.
@@ -85,7 +83,7 @@ passed through the area.
 You choose additional favored terrain types at 7th
 and 10th level.
 
-### GREATER FAVORED ENEMY
+## GREATER FAVORED ENEMY
 At 7th level, you are ready to hunt even deadlier game.
 
 Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants.
@@ -94,13 +92,13 @@ You gain all the benefits against this chosen enemy that you normally gain again
 
 Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
 
-### IRON MIND
+## IRON MIND
 At 10th level, you gain proficiency in Wisdom saving throws.
 
-### STALKER's FLURRY
+## STALKER's FLURRY
 Starting at 15th level, once on each of your turns when you miss with ana ttack, you can make another attack.
 
-### FERAL SLAYER
+## FERAL SLAYER
 At 18th level, you gain preternatural senses that help
 you fight creatures you can't see. When you attack a
 creature you can't see, your inability to see it doesn't
@@ -118,8 +116,8 @@ an attack you make against one of your favored enemies.
 You can choose to use this feature before or after the
 roll, but before any effects of the roll are applied.
 
-### Additions to the Ranger Spell List
-#### CANTRIPS (0 Level)
+## Additions to the Ranger Spell List
+### CANTRIPS (0 Level)
 Acid Splash  
 Blade Ward  
 Dancing Lights  

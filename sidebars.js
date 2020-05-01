@@ -1,9 +1,13 @@
 module.exports = {
-  someSidebar: [
+  docs: [
     {
       type: 'category',
       label: 'Pages',
-      items: ['Spells', 'HomeBrew'],
+      items: ['Spells', {
+        label: 'Classes',
+        type: 'category',
+        items: ['RangerAsAFighterSubClass', 'RangerReworked']
+      }],
     },
   ]
 };
