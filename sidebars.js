@@ -7,7 +7,7 @@ module.exports = {
         label: 'Classes',
         type: 'category',
         items: ['RangerAsAFighterSubClass', 'RangerReworked']
-      }],
+      }, 'Wereraven'],
     },
   ]
 };

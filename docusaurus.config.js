@@ -28,6 +28,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/Wereraven',
+          activeBasePath: 'docs',
+          label: 'Wereraven',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/roseDickinson',
           label: 'GitHub',
           position: 'right',
@@ -47,6 +53,10 @@ module.exports = {
             {
               label: 'Classes',
               to: 'docs/RangerAsAFighterSubClass',
+            },
+            {
+              label: 'Wereraven',
+              to: 'docs/Wereraven',
             },
           ],
         },
