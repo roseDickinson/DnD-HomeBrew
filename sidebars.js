@@ -3,7 +3,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Pages',
-      items: ['Spells', {
+      items: ['Spells', 'MagicItems', {
         label: 'Classes',
         type: 'category',
         items: ['RangerAsAFighterSubClass', 'RangerReworked']

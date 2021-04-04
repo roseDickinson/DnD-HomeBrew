@@ -14,7 +14,12 @@
   --ifm-color-primary-light: #E7D29B;
   --ifm-color-primary-lighter: #F2ECE4;
   --ifm-color-primary-lightest: #F2ECE4;
+  --ifm-color-content-secondary: #58180D;
+  /* --ifm-link-hover-color: #9C2B1B;
+  --ifm-navbar-link-hover-color: #9C2B1B; */
+  --ifm-pagination-nav-color-hover: #9C2B1B;
   --ifm-code-font-size: 95%;
+  --ifm-menu-color: #58180D;
   background-color: #E7D29B;
 }
 

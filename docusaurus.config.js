@@ -22,6 +22,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/MagicItems',
+          activeBasePath: 'docs',
+          label: 'Magic Items',
+          position: 'left',
+        },
+        {
           to: 'docs/RangerAsAFighterSubClass',
           activeBasePath: 'docs',
           label: 'Classes',
@@ -51,6 +57,10 @@ module.exports = {
               to: 'docs/Spells',
             },
             {
+              label: 'Magic Items',
+              to: 'docs/MagicItems',
+            },
+            {
               label: 'Classes',
               to: 'docs/RangerAsAFighterSubClass',
             },
@@ -69,7 +79,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/ralkarg',
+              href: 'https://twitter.com/typhrosieon',
             },
           ],
         },

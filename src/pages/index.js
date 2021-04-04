@@ -9,15 +9,27 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Spells</>,
+    cols: 4,
     imageUrl: 'img/wizard.png',
     description: (
       <>
-        Brand new spells, OMG WOW!! What an amazing idea! I'd have never thought to make my own spells.
+        Including brand new and modified spells, OMG WOW!! What an amazing idea! I'd have never thought to make my own spells.
+      </>
+    ),
+  },
+  {
+    title: <>Magic Items</>,
+    cols: 4,
+    imageUrl: 'img/swords.png',
+    description: (
+      <>
+        Magic items galore! Feast your eyes on these amazing new magic items! (Anyone I actually DM for avert your eyes)
       </>
     ),
   },
   {
     title: <>My HomeBrew rule reworks</>,
+    cols: 4,
     imageUrl: 'img/beer.webp',
     description: (
       <>
@@ -27,14 +39,15 @@ const features = [
   },
   {
     title: <>Disclaimer</>,
-    description: ( <> This website and all content within is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. </> )
+    cols: 12,
+    description: (<> This website and all content within is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. </>)
   }
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description, cols }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={classnames('col col--4', styles.feature)}>
+    <div className={classnames(`col col--${cols}`, styles.feature)}>
       {imgUrl && (
         <div className="text--center">
           <img className={styles.featureImage} src={imgUrl} alt={title} />
@@ -48,7 +61,7 @@ function Feature({imageUrl, title, description}) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title={`${siteConfig.title}`}
