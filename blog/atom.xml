@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rosedickinson.github.io/blog</id>
+    <title>Rose's HomeBrew Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rosedickinson.github.io/blog"/>
+    <subtitle>Rose's HomeBrew Blog</subtitle>
+    <icon>https://rosedickinson.github.io/img/logo.png</icon>
+</feed>
