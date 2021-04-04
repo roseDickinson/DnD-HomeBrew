@@ -11,17 +11,28 @@
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: #E7D29B;
-  --ifm-color-primary-lighter: #F2ECE4;
-  --ifm-color-primary-lightest: #F2ECE4;
+  --ifm-color-primary-light: #F2ECE4;
+  --ifm-color-primary-lighter: #f0ece8;
+  --ifm-color-primary-lightest: #f1ede9;
   --ifm-color-content-secondary: #58180D;
   /* --ifm-link-hover-color: #9C2B1B;
   --ifm-navbar-link-hover-color: #9C2B1B; */
   --ifm-pagination-nav-color-hover: #9C2B1B;
   --ifm-code-font-size: 95%;
   --ifm-menu-color: #58180D;
-  background-color: #E7D29B;
+  background-color: #F2ECE4;
 }
+
+.hero.hero--primary {
+  --ifm-hero-background-color: var(--ifm-color-primary);
+  --ifm-hero-text-color: var(--ifm-font-base-color-inverse);
+  background-color: var(--ifm-hero-background-color);
+  color: var(--ifm-hero-text-color);
+  border-bottom-color: #C9AD6A;
+  border-bottom-width: 0.2rem;
+  border-bottom-style: solid;
+}
+
 
 .row {
   justify-content: space-around;
