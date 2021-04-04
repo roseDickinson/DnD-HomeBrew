@@ -7,14 +7,16 @@ module.exports = {
   organizationName: 'Rose Dickinson', // Usually your GitHub org/user name.
   projectName: 'DnD-HomeBrew', // Usually your repo name.
   themeConfig: {
-    disableDarkMode: true,
+    colorMode: {
+      disableSwitch: true,
+    },
     navbar: {
       title: 'Rose\'s HomeBrew',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/Spells',
           activeBasePath: 'docs',
