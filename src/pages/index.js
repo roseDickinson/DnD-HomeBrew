@@ -23,7 +23,7 @@ const features = [
     imageUrl: 'img/swords.png',
     description: (
       <>
-        Magic items galore! Feast your eyes on these amazing new magic items! (Anyone I actually DM for avert your eyes)
+        Magic items galore! Feast your eyes on these amazing magic items! Though I would love to take all of the credit for these magic items, a lot of them have been inspired by similar items I have seen other DMs use in their campaigns. I include them in this page only for my own ease of access. (Anyone I actually DM for avert your eyes)
       </>
     ),
   },

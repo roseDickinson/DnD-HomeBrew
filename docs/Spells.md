@@ -5,7 +5,7 @@ sidebar_label: Spells
 ---
 <div style={{ display: 'flex', justifyContent: 'space-between'}}>
 <div>
-<h3 style={{color: '#9c2B1B', textDecoration: 'underline', marginBottom: '1rem'}}>Bard Spells</h3>  
+<h3 style={{color: '#58180D', textDecoration: 'underline', marginBottom: '1rem'}}>Bard Spells</h3>  
 
 #### 1st Level
 [Frost Nova](#frost-nova)  
@@ -19,14 +19,14 @@ sidebar_label: Spells
 
 </div>
 <div>
-<h3 style={{color: '#9c2B1B', textDecoration: 'underline', marginBottom: '1rem'}}>Druid Spells</h3>  
+<h3 style={{color: '#58180D', textDecoration: 'underline', marginBottom: '1rem'}}>Druid Spells</h3>  
 
 #### 1st Level
 [Frost Nova](#frost-nova)  
 
 </div>
 <div>
-<h3 style={{color: '#9c2B1B', textDecoration: 'underline', marginBottom: '1rem'}}>Ranger Spells</h3>  
+<h3 style={{color: '#58180D', textDecoration: 'underline', marginBottom: '1rem'}}>Ranger Spells</h3>  
 
 #### 1st Level
 [Quad Shot](#quad-shot)
@@ -35,7 +35,7 @@ sidebar_label: Spells
 [Azzir's Angry Arrow](#azzirs-angry-arrow)
 </div>
 <div>
-<h3 style={{color: '#9c2B1B', textDecoration: 'underline', marginBottom: '1rem'}}>Sorcerer Spells</h3>  
+<h3 style={{color: '#58180D', textDecoration: 'underline', marginBottom: '1rem'}}>Sorcerer Spells</h3>  
 
 #### 1st Level
 [Frost Nova](#frost-nova)  
@@ -44,7 +44,7 @@ sidebar_label: Spells
 </div>
 <div style={{ display: 'flex', justifyContent: 'space-between'}}>
 <div>
-<h3 style={{color: '#9c2B1B', textDecoration: 'underline', marginBottom: '1rem'}}>Wizard Spells</h3>  
+<h3 style={{color: '#58180D', textDecoration: 'underline', marginBottom: '1rem'}}>Wizard Spells</h3>  
 
 #### 1st Level
 [Frost Nova](#frost-nova)  
