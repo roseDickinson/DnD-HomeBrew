@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://rosedickinson.github.io',
   baseUrl: '/DnD-HomeBrew/',
   favicon: 'img/logo.png',
-  organizationName: 'Rose Dickinson', // Usually your GitHub org/user name.
+  organizationName: 'roseDickinson', // Usually your GitHub org/user name.
   projectName: 'DnD-HomeBrew', // Usually your repo name.
   themeConfig: {
     colorMode: {
