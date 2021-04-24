@@ -5,28 +5,28 @@ title: Ranger (but as a fighter subclass)
 
 ## Ranger Spellcasting
 
-| Fighter Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
-|:-------------:|:--------------:|:------------:|:---:|:---:|:---:|:---:|:---:|
-| 3rd           | 2              | 3            | 2   | -   | -   | -   | -   |
-| 4th           | 2              | 3            | 3   | -   | -   | -   | -   |
-| 5th           | 2              | 4            | 3   | -   | -   | -   | -   |
-| 6th           | 2              | 4            | 3   | -   | -   | -   | -   |
-| 7th           | 2              | 5            | 4   | 2   | -   | -   | -   |
-| 8th           | 2              | 5            | 4   | 2   | -   | -   | -   |
-| 9th           | 2              | 6            | 4   | 3   | -   | -   | -   |
-| 10th          | 3              | 6            | 4   | 3   | -   | -   | -   |
-| 11th          | 3              | 7            | 4   | 3   | 2   | -   | -   |
-| 12th          | 3              | 7            | 4   | 3   | 2   | -   | -   |
-| 13th          | 3              | 8            | 4   | 3   | 3   | -   | -   |
-| 14th          | 3              | 8            | 4   | 3   | 3   | -   | -   |
-| 15th          | 3              | 9            | 4   | 3   | 3   | 1   | -   |
-| 16th          | 3              | 9            | 4   | 3   | 3   | 1   | -   |
-| 17th          | 3              | 10           | 4   | 3   | 3   | 2   | -   |
-| 18th          | 3              | 10           | 4   | 3   | 3   | 2   | -   |
-| 19th          | 3              | 11           | 4   | 3   | 3   | 3   | 1   |
-| 20th          | 3              | 11           | 4   | 3   | 3   | 3   | 1   |
+| Fighter Level | Cantrips Known | Spells Known |  1st  |  2nd  |  3rd  |  4th  |  5th  |
+| :-----------: | :------------: | :----------: | :---: | :---: | :---: | :---: | :---: |
+|      3rd      |       2        |      3       |   2   |   -   |   -   |   -   |   -   |
+|      4th      |       2        |      3       |   3   |   -   |   -   |   -   |   -   |
+|      5th      |       2        |      4       |   3   |   -   |   -   |   -   |   -   |
+|      6th      |       2        |      4       |   3   |   -   |   -   |   -   |   -   |
+|      7th      |       2        |      5       |   4   |   2   |   -   |   -   |   -   |
+|      8th      |       2        |      5       |   4   |   2   |   -   |   -   |   -   |
+|      9th      |       2        |      6       |   4   |   3   |   -   |   -   |   -   |
+|     10th      |       3        |      6       |   4   |   3   |   -   |   -   |   -   |
+|     11th      |       3        |      7       |   4   |   3   |   2   |   -   |   -   |
+|     12th      |       3        |      7       |   4   |   3   |   2   |   -   |   -   |
+|     13th      |       3        |      8       |   4   |   3   |   3   |   -   |   -   |
+|     14th      |       3        |      8       |   4   |   3   |   3   |   -   |   -   |
+|     15th      |       3        |      9       |   4   |   3   |   3   |   1   |   -   |
+|     16th      |       3        |      9       |   4   |   3   |   3   |   1   |   -   |
+|     17th      |       3        |      10      |   4   |   3   |   3   |   2   |   -   |
+|     18th      |       3        |      10      |   4   |   3   |   3   |   2   |   -   |
+|     19th      |       3        |      11      |   4   |   3   |   3   |   3   |   1   |
+|     20th      |       3        |      11      |   4   |   3   |   3   |   3   |   1   |
 
-## FAVORED ENEMY
+## Favoured Enemy
 Beginning at 3rd levei, you have significant experience
 studying, tracking, hunting, and even talking to a certain
 type of enemy.
@@ -49,7 +49,7 @@ an associated language, at 15th level. As you
 gain levels, your choices should reflect the types of
 monsters you have encountered on your adventures.
 
-## NATURAL EXPLORER
+## Natural Explorer
 You are particularly familiar with one type of natural
 environment and are adept at traveling and surviving in
 such regions.
@@ -83,7 +83,7 @@ passed through the area.
 You choose additional favored terrain types at 7th
 and 10th level.
 
-## GREATER FAVORED ENEMY
+## Greater Favoured Enemy
 At 7th level, you are ready to hunt even deadlier game.
 
 Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants.
@@ -92,13 +92,13 @@ You gain all the benefits against this chosen enemy that you normally gain again
 
 Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.
 
-## IRON MIND
+## Iron Mind
 At 10th level, you gain proficiency in Wisdom saving throws.
 
-## STALKER's FLURRY
+## Stalker's Fury
 Starting at 15th level, once on each of your turns when you miss with ana ttack, you can make another attack.
 
-## FERAL SLAYER
+## Feral Slayer
 At 18th level, you gain preternatural senses that help
 you fight creatures you can't see. When you attack a
 creature you can't see, your inability to see it doesn't
@@ -117,7 +117,7 @@ You can choose to use this feature before or after the
 roll, but before any effects of the roll are applied.
 
 ## Additions to the Ranger Spell List
-### CANTRIPS (0 Level)
+### Cantrips (0 Level)
 Acid Splash  
 Blade Ward  
 Dancing Lights  

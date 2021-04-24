@@ -6,7 +6,7 @@ module.exports = {
       items: ['Spells', 'MagicItems', {
         label: 'Classes',
         type: 'category',
-        items: ['RangerAsAFighterSubClass', 'RangerReworked']
+        items: ['ArtificerAlchemist', 'RangerAsAFighterSubClass', 'RangerReworked']
       }, 'Wereraven'],
     },
   ]
